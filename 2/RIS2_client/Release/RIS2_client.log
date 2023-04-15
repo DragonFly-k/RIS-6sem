@@ -1,0 +1,9 @@
+﻿  Client.cpp
+D:\универ\РИС\лабы\RIS_2\RIS2_client\Client.cpp(45,10): warning C4101: obuf: неиспользованная локальная переменная
+D:\универ\РИС\лабы\RIS_2\RIS2_client\Client.cpp(47,10): warning C4101: buffer: неиспользованная локальная переменная
+  Создание кода
+  1 of 198 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  RIS2_client.vcxproj -> D:\универ\РИС\лабы\RIS_2\RIS_2\Release\RIS2_client.exe
